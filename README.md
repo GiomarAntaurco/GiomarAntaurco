@@ -33,7 +33,7 @@
 
 * 💡 **Especialización:** Pipelines ETL/ELT end-to-end y optimización de Data Warehouses de gran escala (**+10 PB**).
 * 🤝 **Liderazgo:** Project Manager en **AWS User Group Perú**, aplicando metodologías ágiles (Scrum/Jira).
-* 🎓 **Formación:** Ingeniería Informática (10mo ciclo) en la **PUCP**.
+* 🎓 **Formación:** Ingeniería Informática en la **PUCP**.
 
 <br/>
 
